@@ -25,5 +25,5 @@ remotely:
     git push origin --delete v1.7
 
 
--Add an image in the README.md file
-![Git logo](cosmo.png)
+-Add an image in the README<img width="381" height="500" alt="cosmo" src="https://github.com/user-attachments/assets/57faa998-aed8-4934-b8ea-fde23e7ec108" />
+.md file
