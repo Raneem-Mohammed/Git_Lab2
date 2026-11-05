@@ -26,4 +26,4 @@ remotely:
 
 
 -Add an image in the README.md file
-![Git logo](lab2/cat.jfif)
+![Git logo](cat.jfif)
